@@ -1,0 +1,265 @@
+[
+    {
+    "filter_id":1,
+    "products":[{
+        "product_id":11,
+        "product_name":"Hair Dryer",
+        "imgsrc":"./hair.webp",
+        "price":6000
+    
+    
+    },
+    {
+        "product_id":12,
+        "product_name":"TV",
+        "imgsrc":"./tv.jpg",
+        "price":50000
+    
+    
+    },
+    {
+        "product_id":13,
+        "product_name":"Iron Box",
+        "imgsrc":"./ironbox.jpg",
+        "price":5000
+    
+    
+    },
+    {
+        "product_id":14,
+        "product_name":"Oven",
+        "imgsrc":"./otg.webp",
+        "price":25000
+    
+    
+    },
+    {
+        "product_id":15,
+        "product_name":"Ac",
+        "imgsrc":"./ac.jpg",
+        "price":30000
+    
+    
+    },
+    {
+        "product_id":16,
+        "product_name":"Matress",
+        "imgsrc":"./bedmatress.jpg",
+        "price":8000
+    
+    
+    }]
+    
+    },
+    
+    {
+        "filter_id":2,
+        "products":[{
+            "product_id":17,
+            "product_name":"Dhothi",
+            "imgsrc":"./set.webp",
+            "price":1200
+        
+        
+        },
+        {
+            "product_id":18,
+            "product_name":"Pant",
+            "imgsrc":"./menpant.webp",
+            "price":950
+        
+        
+        },
+        {
+            "product_id":19,
+            "product_name":"Shirt",
+            "imgsrc":"./menshirt.jpg",
+            "price":700
+        
+        
+        },
+        {
+            "product_id":20,
+            "product_name":"Woolen Jacket",
+            "imgsrc":"./woolen.webp",
+            "price":500
+        
+        
+        },
+        {
+            "product_id":21,
+            "product_name":"Tshirt",
+            "imgsrc":"./ttshirt.avif",
+            "price":800
+        
+        
+        },
+        {
+            "product_id":22,
+            "product_name":"Suit",
+            "imgsrc":"./suit.jpg",
+            "price":15000
+        
+        
+        }]
+        
+        },
+        
+        {
+            "filter_id":3,
+            "products":[{
+                "product_id":23,
+                "product_name":"Saree",
+                "imgsrc":"./saree.jpg",
+                "price":1500
+            
+            
+            },
+            {
+                "product_id":24,
+                "product_name":"Tshirt",
+                "imgsrc":"./tshirtgi.jpg",
+                "price":400
+            
+            
+            },
+            {
+                "product_id":25,
+                "product_name":"Frock",
+                "imgsrc":"./fashiondress.jpg",
+                "price":700
+            
+            
+            },
+            {
+                "product_id":26,
+                "product_name":"Top",
+                "imgsrc":"./frock.webp",
+                "price":500
+            
+            
+            },
+            {
+                "product_id":27,
+                "product_name":"Kurthi",
+                "imgsrc":"./design dress.jpg",
+                "price":5000
+            
+            
+            },
+            {
+                "product_id":28,
+                "product_name":"Pant",
+                "imgsrc":"./grpant.jpg",
+                "price":600
+            
+            
+            }]
+            
+            },
+    
+            {
+                "filter_id":4,
+                "products":[{
+                    "product_id":29,
+                    "product_name":"Ring",
+                    "imgsrc":"./ring.avif",
+                    "price":520
+                
+                
+                },
+                {
+                    "product_id":30,
+                    "product_name":"Lipcolour",
+                    "imgsrc":"./lipstick.jpg",
+                    "price":400
+                
+                
+                },
+                {
+                    "product_id":31,
+                    "product_name":"Body Lotion",
+                    "imgsrc":"./mamaearth.webp",
+                    "price":600
+                
+                
+                },
+                {
+                    "product_id":32,
+                    "product_name":"moisturize",
+                    "imgsrc":"./neavia.webp",
+                    "price":200
+                
+                
+                },
+                {
+                    "product_id":33,
+                    "product_name":"Perfume",
+                    "imgsrc":"./perfume.jpg",
+                    "price":490
+                
+                
+                },
+                {
+                    "product_id":34,
+                    "product_name":"Strobe Cream",
+                    "imgsrc":"./strobe.jpg",
+                    "price":460
+                
+                
+                }]
+                
+                },
+                {
+                    "filter_id":5,
+                    "products":[{
+                        "product_id":35,
+                        "product_name":" Wooden Doll",
+                        "imgsrc":"./dolls.webp",
+                        "price":380
+                    
+                    
+                    },
+                    {
+                        "product_id":36,
+                        "product_name":"FlowerVass",
+                        "imgsrc":"./flowervas.webp",
+                        "price":580
+                    
+                    
+                    },
+                    {
+                        "product_id":37,
+                        "product_name":" Light Lamp",
+                        "imgsrc":"./lamp.jpeg",
+                        "price":800
+                    
+                    
+                    },
+                    {
+                        "product_id":38,
+                        "product_name":"Mirror",
+                        "imgsrc":"./mirror.webp",
+                        "price":600
+                    
+                    
+                    },
+                    {
+                        "product_id":39,
+                        "product_name":"Wood Stand",
+                        "imgsrc":"./wood stand.webp",
+                        "price":1000
+                    
+                    
+                    },
+                    {
+                        "product_id":40,
+                        "product_name":"Photo Frame",
+                        "imgsrc":"./photo.jpg",
+                        "price":460
+                    
+                    
+                    }]
+                    
+                }
+     ]

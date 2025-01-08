@@ -1,0 +1,290 @@
+body{
+    background-image: url(backgroun.jpg);
+}
+
+#banimg{
+    width: 1100px;
+    height: 400px;
+    margin-left: 122px;
+    border-bottom: 0px;
+    border: 2px solid red;   
+}
+
+nav{
+    width: 1100px;
+    margin:auto;
+    border: 2px solid red;
+    border-top: 0px;
+
+}
+
+.first{
+    width: 400px;
+    height: 400px;
+    margin-left: 120px;
+
+    
+}
+   .new img{
+    width:200px;
+    height: 200px;
+    display: block;
+    margin: 40px;
+    text-align: center; 
+    box-shadow: 2px 2px 2px 2px;
+    margin-top: 10px;
+        
+}
+
+.myRow{
+    width: 1100px;
+    margin: auto;
+    border: 2px solid red;
+    border-top: 0px;
+    box-sizing:border-box;
+    overflow:hidden;
+}
+
+.new h3{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.new span{
+    float: left;
+    margin-left: 40px;
+    color: rgb(236, 16, 16);
+    font-weight: 400;
+}
+
+.new button{
+    float: right;
+    margin-right: 40px;
+}
+
+.new {
+    border: 2px solid red;
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: white;
+}   
+#flexContainer {
+    height: 430px;
+    overflow-y: auto;
+    position: fixed;
+    top: 0px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    padding: 0px;
+    box-sizing: border-box;
+    z-index: 3;
+
+}
+#flexContainer H2{
+    align-self: flex-start;
+    color: red;
+    margin: 0px;
+    padding: 0px;
+    width: 320px;
+
+}
+#flexContainer div{
+    width: 320px;
+    border: 1px solid red;
+    border-radius: 3%;
+    background-color: lightpink;
+    height: 160px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 0px;
+    
+
+}
+#flexContainer hr{
+    float: right;
+    margin: auto 5px auto auto ;
+}
+
+#flexContainer #buttons
+{
+    width:320px;
+    height:auto;
+    padding: 0px;
+    background-color:none;
+    background-image:none;
+    border:none;
+   
+
+}
+
+#flexContainer button{
+    float:right;
+    height: auto;
+}
+#finalBill{
+    padding: 0px;
+    width: 550px;
+    border-radius: 3%;
+    box-sizing: border-box;
+    height: 560px;
+    position: fixed;
+    top:10px;
+    left: 350px;
+    z-index: 5;
+    display: none;
+    
+}
+
+#finalBill #bankInfo{
+    width: 530px;
+    height: 215px;
+    display: none;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 3%;
+    margin: auto;
+
+}
+
+#bankInfo img{
+    width: 30px;
+    margin: auto auto auto 15px;
+
+}
+
+#finalBill #billTable{
+    width: 530px;
+    height: 310px;
+    background-color: lightpink;
+    border-radius: 3%;
+    padding: 30px;
+    overflow: auto;
+    border: 1px solid white;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+#finalBill h2{
+    margin: auto;
+    padding: 0px;
+    color: white;
+
+}
+
+#bankInfo input[type="text"]{
+    border-radius: 4px;
+    border: 1px solid black;
+
+}
+
+#bankInfo input[type="text"]{
+    border-radius: 4px;
+
+}
+
+.table-product-heading{
+    width: 140px;
+    height: 50px;
+    padding: 20px;
+    box-sizing: border-box;
+    color: white;
+    text-align: center;
+    
+
+}
+
+.table-items-heading{
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    box-sizing:border-box;
+    color: white;
+    text-align: center;
+
+}
+.table-product-content{
+    width: 140px;
+    height: 140px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.table-product-items{
+    width: 50px;
+    height: 140px;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    color: black;
+
+}
+
+.table-product-total{
+    width: 70px;
+    padding: 20px;
+    text-align: center;
+    height: 140px;
+    box-sizing: border-box;
+    color: black;
+
+}
+
+.table-total-heading{
+    width: 70px;
+    height: 50px;
+    padding: 20px;
+    box-sizing: border-box;
+    color: black;
+    text-align: center;
+}
+#billTable table{
+    width: 310px;
+    height: auto;
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#billTable th,td {
+    color: black;
+    border: 1px solid black;
+    font-weight: 600px;
+}
+
+#finalBill #buttons2{
+    width: 530px;
+    height: 50px;
+    padding: 0px 10px 10px 10px;
+    box-sizing: border-box;
+
+}
+
+#buttons2 #backToCart{
+    float: left;
+    margin: 0px auto 0px 10px;
+    height: 50px;
+
+}
+
+#buttons2 #pay{
+    float: right;
+    margin: 0px auto 0px auto;
+    height: 50px;
+}
+
+footer{
+    background-color: lightpink;
+    border: 2px solid red;
+    width: 1100px;
+    margin-left: 122px;
+    border-top: 0px;
+    height: 100px;
+    font-weight: 700;
+    font-size: large;
+    
+}

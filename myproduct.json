@@ -1,0 +1,265 @@
+[
+{
+"filter-id":1,
+"products":[{
+    "product-id":11,
+    "product-name":"fridge",
+    "imgsrc":"image/frid.webp",
+    "price":60000
+
+
+},
+{
+    "product-id":12,
+    "product-name":"TV",
+    "imgsrc":"image/tv.jpg",
+    "price":50000
+
+
+},
+{
+    "product-id":13,
+    "product-name":"Iron Box",
+    "imgsrc":"image/ironbox.jpg",
+    "price":5000
+
+
+},
+{
+    "product-id":14,
+    "product-name":"Washing Machine",
+    "imgsrc":"image/washing.png",
+    "price":25000
+
+
+},
+{
+    "product-id":15,
+    "product-name":"Ac",
+    "imgsrc":"image/ac.jpg",
+    "price":30000
+
+
+},
+{
+    "product-id":16,
+    "product-name":"Bed",
+    "imgsrc":"image/bed.jpg",
+    "price":8000
+
+
+}]
+
+},
+
+{
+    "filter-id":2,
+    "products":[{
+        "product-id":17,
+        "product-name":"Dhothi",
+        "imgsrc":"image/dhothi.webp",
+        "price":1200
+    
+    
+    },
+    {
+        "product-id":18,
+        "product-name":"Pant",
+        "imgsrc":"image/menpant.webp",
+        "price":950
+    
+    
+    },
+    {
+        "product-id":19,
+        "product-name":"Shirt",
+        "imgsrc":"image/menshirt",
+        "price":700
+    
+    
+    },
+    {
+        "product-id":20,
+        "product-name":"Tshirt",
+        "imgsrc":"image/ment.webp",
+        "price":500
+    
+    
+    },
+    {
+        "product-id":21,
+        "product-name":"Shervani",
+        "imgsrc":"image/shervani.webp",
+        "price":10000
+    
+    
+    },
+    {
+        "product-id":22,
+        "product-name":"Suit",
+        "imgsrc":"image/suit.jpg",
+        "price":15000
+    
+    
+    }]
+    
+    },
+    
+    {
+        "filter-id":3,
+        "products":[{
+            "product-id":23,
+            "product-name":"Saree",
+            "imgsrc":"image/saree.jpg",
+            "price":1500
+        
+        
+        },
+        {
+            "product-id":24,
+            "product-name":"Tshirt",
+            "imgsrc":"image/tshirtgi.jpg",
+            "price":400
+        
+        
+        },
+        {
+            "product-id":25,
+            "product-name":"Frock",
+            "imgsrc":"image/fashiondress.jpg",
+            "price":700
+        
+        
+        },
+        {
+            "product-id":26,
+            "product-name":"Top",
+            "imgsrc":"image/frock.webp",
+            "price":500
+        
+        
+        },
+        {
+            "product-id":27,
+            "product-name":"Kurthi",
+            "imgsrc":"image/design dress.jpg",
+            "price":5000
+        
+        
+        },
+        {
+            "product-id":28,
+            "product-name":"Pant",
+            "imgsrc":"image/grpant.jpg",
+            "price":600
+        
+        
+        }]
+        
+        },
+
+        {
+            "filter-id":4,
+            "products":[{
+                "product-id":29,
+                "product-name":"Foundation",
+                "imgsrc":"image/cream.webp",
+                "price":520
+            
+            
+            },
+            {
+                "product-id":30,
+                "product-name":"Lipcolour",
+                "imgsrc":"image/lipstick",
+                "price":400
+            
+            
+            },
+            {
+                "product-id":31,
+                "product-name":"Body Location",
+                "imgsrc":"image/mamaearth.webp",
+                "price":600
+            
+            
+            },
+            {
+                "product-id":32,
+                "product-name":"moisturize",
+                "imgsrc":"image/neavia.webp",
+                "price":200
+            
+            
+            },
+            {
+                "product-id":33,
+                "product-name":"Perfume",
+                "imgsrc":"image/perfume.jpg",
+                "price":490
+            
+            
+            },
+            {
+                "product-id":34,
+                "product-name":"Strobe Cream",
+                "imgsrc":"image/strobe.jpg",
+                "price":460
+            
+            
+            }]
+            
+            },
+            {
+                "filter-id":5,
+                "products":[{
+                    "product-id":35,
+                    "product-name":"Doll",
+                    "imgsrc":"image/dolls.webp",
+                    "price":380
+                
+                
+                },
+                {
+                    "product-id":36,
+                    "product-name":"FlowerVass",
+                    "imgsrc":"image/flowervas.webp",
+                    "price":580
+                
+                
+                },
+                {
+                    "product-id":37,
+                    "product-name":"Lamp",
+                    "imgsrc":"image/lamp.jpeg",
+                    "price":800
+                
+                
+                },
+                {
+                    "product-id":38,
+                    "product-name":"Mirror",
+                    "imgsrc":"image/mirror.webp",
+                    "price":600
+                
+                
+                },
+                {
+                    "product-id":39,
+                    "product-name":"Wood Stand",
+                    "imgsrc":"image/wood stand.webp",
+                    "price":1000
+                
+                
+                },
+                {
+                    "product-id":40,
+                    "product-name":"Photo Frame",
+                    "imgsrc":"image/photo.jpg",
+                    "price":460
+                
+                
+                }]
+                
+                }
+ ]
